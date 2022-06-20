@@ -1,7 +1,7 @@
 # IDE
 __pycache__/
 .idea/
-
+venv/
 # pytest
 .pytest_cache/
 
